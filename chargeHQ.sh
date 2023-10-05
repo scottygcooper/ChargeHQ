@@ -4,7 +4,7 @@
 endpoint="https://api.chargehq.net/api/public/push-solar-data"
 
 # Add apiKey, Envoy IP and interval in seconds below.
-apiKey="<apiKey>"
+apiKey="4d6a41324e444d774d513d3d0a"
 local_envoy_ip="envoy.local"
 interval=60
 
